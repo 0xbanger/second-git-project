@@ -1,0 +1,6 @@
+-- LOG START --
+My current program opens the pokedex.txt file.
+That filecontains the text of 6 pokémon.
+It then adds each pokémon name to an empty list.
+And prints that list.
+-- LOG END --
